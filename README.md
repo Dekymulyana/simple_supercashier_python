@@ -21,7 +21,7 @@ Kode dapat memungkinkan pengguna untuk menghapus item dari daftar pesanan berdas
 #### Reset Transaksi
 Kode dapat memungkinkan pengguna untuk mengosongkan daftar pesanan.
 
-##### Menampilkan Daftar Pesanan
+#### Menampilkan Daftar Pesanan
 Kode dapat menampilkan daftar pesanan dalam bentuk tabel dengan nomor item, nama item, jumlah item, harga per item, dan total harga.
 
 #### Memeriksa Validitas Daftar Pesanan
