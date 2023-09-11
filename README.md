@@ -95,7 +95,18 @@ Kode dapat menghitung total harga pesanan dengan menerapkan diskon sesuai aturan
 
 
 ## 4. Uji Coba
- ### a. __init__()
+ ### a. Test Case 1
+<img width="483" alt="image" src="https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/0271c73c-084c-4959-a5d6-0e9c51244d06">
+
+ ### b. Test Case 2
+<img width="483" alt="image" src="https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/f4f58379-b1a7-4c21-ad20-98ddfafb2d25">
+
+
+ ### c. Test Case 3
+<img width="483" alt="image" src="https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/45e002af-04b3-460d-8c6b-6e810f1b3935">
+
+ ### d. Test Case 4
+<img width="483" alt="image" src="https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/a1467134-62c5-4c5c-bde4-985a55daaeb4">
 
 ## 5. Rekomendasi
  ### a. __init__()
