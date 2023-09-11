@@ -33,9 +33,15 @@ Kode dapat menghitung total harga pesanan dengan menerapkan diskon sesuai aturan
 
 ## 2. Flowchart
 ![Flowchart]()
+![Diagram SuperCashier](https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/a7fe86b2-09b0-4efd-802d-472d78577cd6)
 
 ## 3. Penjelasan Program
  ### a. __init__()
  ### 
    <img width="483" alt="image" src="https://user-images.githubusercontent.com/123846578/216519283-9800920e-9cfa-43a1-ace6-a0ae67aedea1.png">
+   ![1  def_init](https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/3e4a39ff-bbfb-4d34-bd2c-ef7057e2ec64)
+
+
+   
+
    
