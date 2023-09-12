@@ -116,6 +116,6 @@ Kode dapat menghitung total harga pesanan dengan menerapkan diskon sesuai aturan
 <img width="483" alt="image" src="https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/a1467134-62c5-4c5c-bde4-985a55daaeb4">
 
 ## 5. Rekomendasi
- ### Buat dalam bentuk GUI agar lebih ramah pengguna, da antarmuka yang lebih interaktif.
+ ### Buat dalam bentuk GUI agar lebih ramah pengguna, dan antarmuka yang lebih interaktif.
  ### Tambahkan database untuk menyimpan data transaksi secara persisten.
- ### Buat Laporan Transaksi Tambahkan fitur untuk menghasilkan laporan transaksi, sehingga pengguna dapat melacak transaksi mereka dari waktu ke waktu.
+ ### Tambahkan fitur untuk menghasilkan laporan transaksi, sehingga pengguna dapat melacak transaksi mereka dari waktu ke waktu.
