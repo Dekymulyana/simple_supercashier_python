@@ -59,8 +59,11 @@ Kode dapat menghitung total harga pesanan dengan menerapkan diskon sesuai aturan
 
  Parameter:
  nama_item (str): Nama item yang akan diupdate harganya.
+ 
  update_nama_item (str): Nama baru untuk item tersebut.
+ 
  update_jumlah_item (int): Jumlah baru untuk item tersebut.
+ 
  update_harga_item (int): Harga baru untuk item tersebut.
       
 <img width="483" alt="image" src="https://github.com/Dekymulyana/simple_supercashier_python/assets/16453391/f5e88b7d-23e6-4e1b-95c0-b2c91c4f951a">
